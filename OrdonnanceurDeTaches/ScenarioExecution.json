@@ -1,0 +1,1 @@
+{"tasks":[{"id":1,"label":"Informatique1","beginTime":0,"endTime":5},{"id":5,"label":"Maths","beginTime":5,"endTime":8},{"id":4,"label":"Informatique2","beginTime":8,"endTime":11},{"id":3,"label":"Sport","beginTime":11,"endTime":13},{"id":0,"label":"idle","beginTime":13,"endTime":100},{"id":2,"label":"Courses","beginTime":100,"endTime":102}]}

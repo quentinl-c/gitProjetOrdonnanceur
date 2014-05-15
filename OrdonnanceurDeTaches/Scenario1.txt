@@ -1,0 +1,9 @@
+Politique
+FIFO
+
+Numero	Intitule		Arrivee		Duree		Priorite
+1		Informatique	0			7			10
+2		Courses 		10			3			8
+3		Sport			12			2			9
+4		Informatique	13			5			10
+5		Maths			14			3			15

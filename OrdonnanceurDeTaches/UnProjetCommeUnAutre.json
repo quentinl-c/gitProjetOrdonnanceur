@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 6,
+      "label": "blabla",
+      "beginTime": 0,
+      "endTime": 10
+    },
+    {
+      "id": 5,
+      "label": "blabla",
+      "beginTime": 10,
+      "endTime": 20
+    },
+    {
+      "id": 4,
+      "label": "blabla",
+      "beginTime": 20,
+      "endTime": 30
+    },
+    {
+      "id": 3,
+      "label": "blabla",
+      "beginTime": 30,
+      "endTime": 40
+    },
+    {
+      "id": 2,
+      "label": "blabla",
+      "beginTime": 40,
+      "endTime": 50
+    },
+    {
+      "id": 1,
+      "label": "blabla",
+      "beginTime": 50,
+      "endTime": 60
+    }
+  ]
+}
